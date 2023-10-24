@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O Cloneb Github consiste na clonagem da página de login do Github.
+O Clone Github consiste na clonagem da página de login do Github.
 
 ## Objetivo
 
