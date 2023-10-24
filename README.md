@@ -30,7 +30,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Deploy
 
-O projeto está disponível em https://clone-github-iota.vercel.app/ para visualização.
+O projeto está disponível em [Clone-GitHub no Vercel](https://clone-github-iota.vercel.app/) para visualização.
 
 Seja bem-vindo ao Clone GitHub, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
